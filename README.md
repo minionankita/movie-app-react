@@ -1,4 +1,4 @@
 Steps to build and run the APPLICATION
 
-npm install
-npm start
+## 1) npm install
+## 2) npm start
